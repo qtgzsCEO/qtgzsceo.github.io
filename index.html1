@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>秦天工作室官方网站  -  ^ V ^</title>
+  <link rel="stylesheet" href="styles.css">
+
+  <style>
+    body {
+      background-image: url("ggg.gif");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+    }
+  </style>
+  
+</head>
+<body>
+  <header>
+    <h1>秦天工作室官方网站</h1>
+    <nav>
+      <ul>
+        <li><a href="#home">首页</a></li>
+        <li><a href="#services">下载</a></li>
+        <li><a href="#projects">项目</a></li>
+        <li><a href="#about">关于我们</a></li>
+        <li><a href="#contact">联系我们</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home">
+    <h2>欢迎来到秦天工作室</h2>
+    <p>我们为您提供高质量的设计和开发服务。</p>
+    <a href="#contact" class="cta-button">联系我们</a>
+  </section>
+
+  <section id="services">
+    <h2>我们的服务</h2>
+    <ul>
+      <li>网站开发</li>
+      <li>移动应用开发</li>
+      <li>UI/UX设计</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>我们的项目</h2>
+    <div class="project">
+      <img src="project1.jpg" alt="项目1">
+      <h3>项目1</h3>
+      <p>一句话描述项目1</p>
+    </div>
+    <div class="project">
+      <img src="project2.jpg" alt="项目2">
+      <h3>项目2</h3>
+      <p>一句话描述项目2</p>
+    </div>
+  </section>
+
+  <section id="about">
+    <h2>关于我们</h2>
+    <p>我们是一家专业的工作室，致力于为客户提供高质量的解决方案。</p>
+    <a href="#contact" class="cta-button">加入我们</a>
+  </section>
+ 
+  <section id="contact">
+    <h2>联系我们</h2>
+    <p>如有任何疑问或合作意向，请通过以下方式联系我们。</p>
+    <ul>
+      <li>Email：info@qintianstudio.com</li>
+      <li>电话：123-456-7890</li>
+      <li>地址：XX街道XX号</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>版权所有 &copy; 2024 秦天工作室</p>
+  </footer>
+
+</body>
+</html>
